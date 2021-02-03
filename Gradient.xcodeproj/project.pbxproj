@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F842AA225CA5F6300FD096A /* DemoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F842AA025CA5F6300FD096A /* DemoCollectionViewCell.swift */; };
+		5F842AA325CA5F6300FD096A /* DemoCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F842AA125CA5F6300FD096A /* DemoCollectionViewCell.xib */; };
 		5FB3C91025C15C84004E3AEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB3C90F25C15C84004E3AEA /* AppDelegate.swift */; };
 		5FB3C91225C15C84004E3AEA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB3C91125C15C84004E3AEA /* SceneDelegate.swift */; };
 		5FB3C91425C15C84004E3AEA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB3C91325C15C84004E3AEA /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5F842AA025CA5F6300FD096A /* DemoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoCollectionViewCell.swift; sourceTree = "<group>"; };
+		5F842AA125CA5F6300FD096A /* DemoCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DemoCollectionViewCell.xib; sourceTree = "<group>"; };
 		5FB3C90C25C15C84004E3AEA /* Gradient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gradient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FB3C90F25C15C84004E3AEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5FB3C91125C15C84004E3AEA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				5FB3C90F25C15C84004E3AEA /* AppDelegate.swift */,
 				5FB3C91125C15C84004E3AEA /* SceneDelegate.swift */,
 				5FB3C91325C15C84004E3AEA /* ViewController.swift */,
+				5F842AA025CA5F6300FD096A /* DemoCollectionViewCell.swift */,
+				5F842AA125CA5F6300FD096A /* DemoCollectionViewCell.xib */,
 				5FB3C91525C15C84004E3AEA /* Main.storyboard */,
 				5FB3C91825C15C86004E3AEA /* Assets.xcassets */,
 				5FB3C91A25C15C86004E3AEA /* LaunchScreen.storyboard */,
@@ -128,6 +134,7 @@
 				5FB3C91C25C15C86004E3AEA /* LaunchScreen.storyboard in Resources */,
 				5FB3C91925C15C86004E3AEA /* Assets.xcassets in Resources */,
 				5FB3C91725C15C84004E3AEA /* Main.storyboard in Resources */,
+				5F842AA325CA5F6300FD096A /* DemoCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 				5FB3C91425C15C84004E3AEA /* ViewController.swift in Sources */,
 				5FB3C91025C15C84004E3AEA /* AppDelegate.swift in Sources */,
 				5FB3C91225C15C84004E3AEA /* SceneDelegate.swift in Sources */,
+				5F842AA225CA5F6300FD096A /* DemoCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
